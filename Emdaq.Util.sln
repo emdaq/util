@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.Util", "Emdaq.Util\Emdaq.Util.csproj", "{46A2615B-B945-4C1C-9FBB-769283F1C988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.DataAccess", "Emdaq.DataAccess\Emdaq.DataAccess.csproj", "{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.ExampleDataAccess", "Emdaq.ExampleDataAccess\Emdaq.ExampleDataAccess.csproj", "{770F8017-C100-44A9-A795-294BD18F2A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		32bit|Any CPU = 32bit|Any CPU
+		32bit|x86 = 32bit|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.32bit|Any CPU.ActiveCfg = 32bit|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.32bit|Any CPU.Build.0 = 32bit|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.32bit|x86.ActiveCfg = 32bit|x86
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.32bit|x86.Build.0 = 32bit|x86
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Debug|x86.ActiveCfg = Debug|x86
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Debug|x86.Build.0 = Debug|x86
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Release|x86.ActiveCfg = Release|x86
+		{46A2615B-B945-4C1C-9FBB-769283F1C988}.Release|x86.Build.0 = Release|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.32bit|Any CPU.ActiveCfg = 32bit|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.32bit|Any CPU.Build.0 = 32bit|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.32bit|x86.ActiveCfg = 32bit|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.32bit|x86.Build.0 = 32bit|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Debug|x86.ActiveCfg = Debug|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Debug|x86.Build.0 = Debug|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|x86.ActiveCfg = Release|x86
+		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|x86.Build.0 = Release|x86
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|Any CPU.ActiveCfg = Release|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|Any CPU.Build.0 = Release|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|x86.ActiveCfg = Release|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
