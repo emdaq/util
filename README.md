@@ -16,6 +16,10 @@ Requirements:
 Optional:
 * Nuget (used for dependencies, which are all in /packages right now)
 
+Setting up MySQL:
+* Add your user/password to [this app.config file](https://github.com/emdaq/util/blob/master/Emdaq.ExampleDataAccess.Tests/app.config)
+* Ask Matt for the create_schema.sql script to create necessary tables
+
 ## Example Repository
 
 For an example repository using the pattern, see https://github.com/emdaq/util/blob/master/Emdaq.ExampleDataAccess/Repository/EmailRepo.cs
