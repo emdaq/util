@@ -14,7 +14,7 @@ Requirements:
 * MySQL 5.6.x ([newest version](http://dev.mysql.com/downloads/mysql/) is fine)
 
 Optional:
-* Nuget (used for dependencies, which are all in /packages right now) VS, Nuget, MySQL 5.6, .NET 4.0
+* Nuget (used for dependencies, which are all in /packages right now)
 
 ## Example Repository
 
