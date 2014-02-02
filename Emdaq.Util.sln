@@ -5,10 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.Util", "Emdaq.Util\Em
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.DataAccess", "Emdaq.DataAccess\Emdaq.DataAccess.csproj", "{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.ExampleDataAccess", "Emdaq.ExampleDataAccess\Emdaq.ExampleDataAccess.csproj", "{770F8017-C100-44A9-A795-294BD18F2A4B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emdaq.ExampleDataAccess.Tests", "Emdaq.ExampleDataAccess.Tests\Emdaq.ExampleDataAccess.Tests.csproj", "{01264460-29A8-4096-A632-7662074A5A7E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		32bit|Any CPU = 32bit|Any CPU
@@ -43,24 +39,6 @@ Global
 		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|x86.ActiveCfg = Release|x86
 		{7D7A4F52-08EC-492B-9F9C-5A3D612ABD37}.Release|x86.Build.0 = Release|x86
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|Any CPU.ActiveCfg = Release|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|Any CPU.Build.0 = Release|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.32bit|x86.ActiveCfg = Release|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{770F8017-C100-44A9-A795-294BD18F2A4B}.Release|x86.ActiveCfg = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.32bit|Any CPU.ActiveCfg = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.32bit|Any CPU.Build.0 = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.32bit|x86.ActiveCfg = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{01264460-29A8-4096-A632-7662074A5A7E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
